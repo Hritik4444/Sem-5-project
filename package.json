@@ -1,0 +1,25 @@
+{
+  "name": "sem-5-project",
+  "version": "1.0.0",
+  "description": "project for sem 5.\r hello guys this is our first dedicated project\r and today is 21 july day tuesday .\r lets start guys i learned how to push code to github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hritik4444/Sem-5-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hritik4444/Sem-5-project/issues"
+  },
+  "homepage": "https://github.com/Hritik4444/Sem-5-project#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
